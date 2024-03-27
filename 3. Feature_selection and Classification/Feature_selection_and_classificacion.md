@@ -26,4 +26,4 @@ Variable selection is performed by the ***feature_selection*** function as follo
 
 2. The **svm_model** function creates, trains, and evaluates an SVM model for classification by calculating various performance metrics, including precision, recall, F1-score, specificity, and AUC-ROC.
 
-3 The **ann** function trains and evaluates a neural network model with adjustable hyperparameters, calculating performance metrics and displaying the normalized confusion matrix for each model.
+3. The **ann** function trains and evaluates a neural network model with adjustable hyperparameters, calculating performance metrics and displaying the normalized confusion matrix for each model.
